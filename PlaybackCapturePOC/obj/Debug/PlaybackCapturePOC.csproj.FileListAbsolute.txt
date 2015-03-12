@@ -1,0 +1,48 @@
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\PlaybackCapturePOC.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\PlaybackCapturePOC.pdb
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\Microsoft.Web.Infrastructure.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\Newtonsoft.Json.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Helpers.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Mvc.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Razor.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\Newtonsoft.Json.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Helpers.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Mvc.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Razor.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.xml
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csprojResolveAssemblyReference.cache
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.pdb
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\Interop.DXTMSFTLib.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\Interop.DXTRANSLib.dll
+d:\users\rocketlabs_2\documents\visual studio 2012\Projects\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csproj.ResolveComReference.cache
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\PlaybackCapturePOC.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\PlaybackCapturePOC.pdb
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\Newtonsoft.Json.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Helpers.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Mvc.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Razor.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\Newtonsoft.Json.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Helpers.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Mvc.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.Razor.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.xml
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csprojResolveAssemblyReference.cache
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\Interop.DXTMSFTLib.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\Interop.DXTRANSLib.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csproj.ResolveComReference.cache
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.dll
+D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.pdb
