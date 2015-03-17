@@ -46,3 +46,28 @@ D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj
 D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csproj.ResolveComReference.cache
 D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.dll
 D:\Users\Rocketlabs_2\Documents\GitHub\PlaybackCapturePOC\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.pdb
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\PlaybackCapturePOC.dll.config
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\PlaybackCapturePOC.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\PlaybackCapturePOC.pdb
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\Newtonsoft.Json.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Helpers.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Mvc.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Razor.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\Newtonsoft.Json.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Helpers.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Mvc.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.Razor.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csproj.ResolveComReference.cache
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.dll
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.pdb
+C:\Users\Kristian\Documents\Visual Studio 2013\Projects\PlaybackCapturePOC-master\PlaybackCapturePOC\obj\Debug\PlaybackCapturePOC.csprojResolveAssemblyReference.cache

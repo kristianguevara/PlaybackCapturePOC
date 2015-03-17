@@ -1,9 +1,20 @@
 ﻿@{
     ViewBag.Title = "Index";
 }
+<head>
+    <title>Playback and Recording</title>
+</head>
+<script src="~/Scripts/jquery-1.11.2.min.js"></script>
+<script src="~/Scripts/jquery.media.js"></script>
+<script src="~/Scripts/script.js"></script>
 
 <h2>Index</h2>
 @using(Html.BeginForm("Index","Home",FormMethod.Post))
 {
     <input type="submit" value="Start Recording"/>
 }
+
+<a class="media {width:1260, height:600}" href="~/Videos/SampleVideo.wmv">My Movie File</a> 
+<a href="https://support.mozilla.org/en-US/kb/play-windows-media-files-in-firefox#w_checking-if-the-plugin-is-installed">Click here for the instructions if you have WMP for Firefox installed</a>
+<br/><a href="http://www.interoperabilitybridges.com/windows-media-player-firefox-plugin-download">If not, click here</a>
+<p>After downloading and before installing, close all browsers and refer to the first link</p>

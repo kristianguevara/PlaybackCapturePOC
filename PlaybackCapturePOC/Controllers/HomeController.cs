@@ -5,14 +5,13 @@ using System.Web;
 using System.Web.Mvc;
 using System.Windows.Forms;
 using System.Drawing;
-using System.Drawing.Imaging;
 using System.IO;
 using System.Text;
 using System.Threading;
 using System.Diagnostics;
-using System.Drawing;
 using BytescoutScreenCapturingLib;
 using System.Runtime.InteropServices;
+using System.Drawing.Imaging;
 
 namespace PlaybackCapturePOC.Controllers
 {
@@ -31,7 +30,8 @@ namespace PlaybackCapturePOC.Controllers
         {
             Capturer capture = new Capturer();
             capture.CapturingType = CaptureAreaType.catScreen;
-            capture.OutputFileName = "C:/scrn/SampleVideo.wmv";
+            var dir = AppDomain.CurrentDomain.BaseDirectory;
+            capture.OutputFileName = dir + "Videos\\SampleVideo.wmv";
             capture.OutputHeight = 800;
             capture.OutputWidth = 1600;
 
@@ -50,8 +50,9 @@ namespace PlaybackCapturePOC.Controllers
             // Release resources
             Marshal.ReleaseComObject(capture);
             capture = null;
+            
 
-            Process.Start("C:/scrn/SampleVideo.wmv"); //Autoplay the video
+            //Process.Start(dir +"Videos\\SampleVideo.wmv"); //Autoplay the video
 
             //Capture("C:/scrn/Screenshot.bmp"); For screenshot reference
             return View();
